@@ -4,7 +4,7 @@ I am from Hyderabad, I did my undergraduation in Computer Science and Engineerin
 
 ## Collaboration
 
-- GitHub Profile / Repos
+- GitHub Profile: https://github.com/rohith0696 / Repos
 
 ## Languages
 
